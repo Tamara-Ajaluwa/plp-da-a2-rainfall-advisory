@@ -1,4 +1,4 @@
-# PLP Data Analytics with Python Assignment 2: Rainfall Advisory
+# PLP Data Analytics with Python Assignment 2: County Rainfall and Planting Advisory
 
 ## Project Summary
 This project cleans raw monthly rainfall records across five Kenyan counties (Nairobi, Nakuru, Kisumu, Mombasa, and Machakos), imputes missing values in the Machakos dataset, and uses NumPy array operations to identify annual totals, wettest months, dry-spell counts, and optimal two-month planting windows.
